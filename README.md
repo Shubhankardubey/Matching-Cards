@@ -4,7 +4,7 @@ Some CSS parts are being from the other websites.
 ## Demo
 <img src="https://media.giphy.com/media/cYkgU6eq8lrnQhUabI/giphy.gif"/>
 
-[Link to a live demo](https://shubhankardubey.github.io/Matching-Cards/index.html)
+[Link to a live demo](https://shubhankardubey.github.io/Matching-Cards)
 
 
 ## How to Play
