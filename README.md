@@ -4,13 +4,13 @@ Some CSS parts are being from the other websites.
 ## Demo
 <img src="https://media.giphy.com/media/cYkgU6eq8lrnQhUabI/giphy.gif"/>
 
-[Link to a live demo]()
+[Link to a live demo](https://shubhankardubey.github.io/Matching-Cards/index.html)
 
 
 ## How to Play
 1) Download ZIP file or clone the repo:
 
-    ````
+    ``https://github.com/Shubhankardubey/Matching-Cards.git``
 
 2) Navigate to index.html and open file in your internet browser
 
